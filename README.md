@@ -16,6 +16,6 @@ Proven knowlage of javascript, better two years and more.
 You should have, of course, some experience with react, A year at least. you should know who to work with hooks. 
 typescript is a big advantage.
 
-if you have all of this and you ready to step up to the next level, take a try of our test. instructions resides in the file movies-on-the-train.
+if you have all of this and you ready to step up to the next level, take a try of our test. instructions resides in the file (https://github.com/rail-il/frontend-candidates/blob/master/movies-on-the-train)[movies-on-the-train].
 
 **Good luck**
