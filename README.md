@@ -2,7 +2,7 @@
 
 **We are hiring**
 
-2021 is a great year we founded a new R&D department and we full of work.<br />
+2021 is a great year for us. A lot of changes happend we built a huge new station in Lod city like a small airport, we founded a new R&D department and we full of work.<br />
 We looking for candidate who can help us to grow.<br />
 If you like humans more then code but still have the passion and you don't afraid of challenges we want to know you.<br />
 We want a team player and nice person. You should be an open minded and flexible thinker, with "I can do it" approch.<br />
