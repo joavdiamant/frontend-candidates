@@ -5,7 +5,7 @@
 2021 is a great year for us. A lot of changes happend we built a huge new station in Lod city like a small airport, we founded a new R&D department and we full of work.<br />
 We looking for candidate who can help us to grow.<br />
 If you like humans more then code but still have the passion and you don't afraid of challenges we want to know you.<br />
-We want a team player and nice person. You should be an open minded and flexible thinker, with "I can do it" approch.<br />
+We want a team player and a nice person. You should be an open minded and flexible thinker, with "I can do it" approch.<br />
 We also like people that bringing their openions and good values to the table.We want someone who can be self learner.<br />
 We need someone who can take a mission and knows how to deliver it with high quality - as known as "send and forget".<br />
 We do support our team but we need someone who can be trusted and loyal.<br />
