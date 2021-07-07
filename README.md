@@ -10,7 +10,7 @@ We also like people that brings their openions and good values to the table. We 
 We need someone who can take a mission and knows how to deliver it with high quality - as known as "send and forget".<br />
 We do support our team but we need someone who can be trusted and loyal.<br />
 <br />
-We do have technical expectations:<br />
+We do have some technical expectations:<br />
 Web basics:<br />
 html,css,js, familiarity with developer tools.<br />
 Proven knowlage of javascript, better two years and more.<br />
