@@ -13,8 +13,8 @@ We do support our team but we need someone who can be trusted and loyal.<br />
 We do have some technical expectations:<br />
 Web basics:<br />
 html,css,js, familiarity with developer tools.<br />
-Proven knowledge  of javascript, better two years and more.<br />
-You should have, of course, some experience with react, A year at least. you should know who to work with hooks.<br />
+2 years+ Proven knowledge of vanilla javascript (es2015, es2017).<br />
+1 year+ React.js you should know who to work with hooks.<br />
 typescript is a big advantage.<br />
 <br />
 if you have all of this and you ready to step up to the next level, take a try of our test.<br />
