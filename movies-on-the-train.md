@@ -23,7 +23,7 @@
     Beneath it also includes a tag list (action, drama ...). 
 
 ### general info
-Use the (https://github.com/rail-il/frontend-candidates/blob/master/ui.jpeg)[demo] attached images as a guidlines.
+Use the [demo](https://github.com/rail-il/frontend-candidates/blob/master/ui.jpeg) attached images as a guidlines.
 Use react-router to browse between pages.
 Use a free movies api to fetch a real data. This api should include also a trailer for the movie if you are going to deliver the movie trailer bonus mission.
 Use any lib that you find fits for completing the mission
