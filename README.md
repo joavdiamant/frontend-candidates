@@ -14,7 +14,7 @@ We do have some technical expectations:<br />
 Web basics:<br />
 html,css,js, familiarity with developer tools.<br />
 2 years+ Proven knowledge of vanilla javascript (es2015, es2017).<br />
-1 year+ React.js you should know who to work with hooks.<br />
+1 year+ React.js you should know how to work with hooks.<br />
 typescript is a big advantage.<br />
 <br />
 if you have all of this and you ready to step up to the next level, take a try of our test.<br />
