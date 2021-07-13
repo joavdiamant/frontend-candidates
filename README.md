@@ -18,6 +18,6 @@ html,css,js, familiarity with developer tools.<br />
 typescript is a big advantage.<br />
 <br />
 if you have all of this and you ready to step up to the next level, take a try of our test.<br />
-Instructions resides in the file [movies-on-the-train](https://github.com/rail-il/frontend-candidates/blob/master/movies-on-the-train).
+Instructions resides in the file [movies-on-the-train](https://github.com/rail-il/frontend-candidates/blob/master/movies-on-the-train.md).
 
 **Good luck**
