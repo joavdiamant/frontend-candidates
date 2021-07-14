@@ -2,7 +2,7 @@
 <br />
 * Build a movie app that include the following pages:<br />
 <br />
-1.  **Form page**  <br />
+1.**Form page**  <br />
     A form of Movie with create/edit option<br />
     The form should have a cancel button when clicked the user back to where he came from.<br />
     The form should have a create button that save a new/edited movie to the movies list.<br />
