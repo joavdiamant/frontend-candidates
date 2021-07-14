@@ -59,10 +59,10 @@ Bonus:<br />
     - For this mission use the movies api of your choice that includes also trailers.<br />
 <br />
 2. Add my favorites movies page: <br />
-    The route for this will be **/my-movies**<br />
+    The route for this will be <b>/my-movies</b><br />
     For this you should add + button to each of item.(make it toggle button, green is the indicator for saved and gray for removed/not saved).<br />
     To be clear when you klick the + this movie will be added to the favorites<br />
-    Add a header with the **My-movies|All movies** links to browse between the two.<br />
+    Add a header with the <b>My-movies|All movies</b> links to browse between the two.<br />
 <br />
 <br />
 ## How to deliver
