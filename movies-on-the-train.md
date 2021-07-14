@@ -24,7 +24,7 @@
     Beneath the image there's a title and a long description text.<br />
     Beneath it also includes a category list (action, drama ...).<br />
 <br />
-``` Movies that have been created/edited, and the rating stars that you gave it should be displayed after refrashing the page ```<br />
+``` Movies that have been created/edited, and the rating stars that you gave it should be displayed after refreshing the page ```<br />
 <br />
 <br />
 ### general info
