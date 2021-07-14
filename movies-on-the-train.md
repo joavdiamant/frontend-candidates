@@ -65,7 +65,7 @@ Bonus:<br />
     Add a header with the <b>My-movies|All movies</b> links to browse between the two.<br />
 <br />
 <br />;
-## How to deliver
+<h3>How to deliver</h3>
 Create your github account a public github repository named MoviesOnTheTrain.<br />
 Upload your files to the repo.<br />
 Add a demo static page with github pages. <br />
