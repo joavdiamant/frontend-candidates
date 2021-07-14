@@ -27,7 +27,7 @@
 ``` Movies that have been created/edited, and the rating stars that you gave it should be displayed after refreshing the page ```<br />
 <br />
 <br />
-### general info
+<h3> general info </h3>
 
 Use the attached images as a guidlines. This is not a pixel perfect and we don't expect it to be amazing but it should be nice,aligned and responsive with flex.<br />
 (! we didn't supplied the cancel button in the forms but you should add it to your project)<br />
