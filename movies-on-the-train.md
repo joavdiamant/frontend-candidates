@@ -28,7 +28,9 @@
 <br />
 <br />
 ### general info
+
 Use the attached images as a guidlines. This is not a pixel perfect and we don't expect it to be amazing but it should be nice,aligned and responsive with flex.<br />
+(! we didn't supplied the cancel button in the forms but you should add it to your project)
 Use react-router to browse between pages.<br />
 You'r routes should be:<br />
 <b>/</b>  - for the list.<br />
