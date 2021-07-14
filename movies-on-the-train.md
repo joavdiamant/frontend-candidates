@@ -2,12 +2,12 @@
 <br />
 * Build a movie app that include the following pages:<br />
 <br />
-1.  **Form page** 
+1.  **Form page** <br />
     A form of Movie with create/edit option<br />
     The form should have a cancel button when clicked the user back to where he came from.<br />
     The form should have a create button that save a new/edited movie to the movies list.<br />
     <br />
-2. **Movie list**
+2. **Movie list**<br />
     A list of all movies, with create new movie button that open the create movie form <br />
     >  each movie in the list is a box witch includes a thumbnail image, a title and short description text.<br />
     Clicking on the movie box will open the details page with the long description text.<br />
