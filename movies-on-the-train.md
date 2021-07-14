@@ -52,7 +52,7 @@ Use the pictures as a guidelines.<br />
 All the pages including the form should be responsive, and be should be displayed nicely on mobile(not native but web view) and desktop with flex approach.<br />
 The app should be based on flex/grid design.<br />
 <br />
-Bonus:<br />
+<b>Bonus:</b><br />
 (The bonus is not required though it can improve your odds among other candidates).<br />
 <br />
 1. Build a trailer modal:<br />
