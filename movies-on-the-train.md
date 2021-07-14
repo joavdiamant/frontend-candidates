@@ -7,7 +7,7 @@
     The form should have a cancel button when clicked the user back to where he came from.<br />
     The form should have a create button that save a new/edited movie to the movies list.<br />
     <br />
-2. **Movie list**<br />
+2. <b>Movie list</b><br />
     A list of all movies, with create new movie button that open the create movie form <br />
     >  each movie in the list is a box witch includes a thumbnail image, a title and short description text.<br />
     Clicking on the movie box will open the details page with the long description text.<br />
@@ -17,7 +17,7 @@
     A movie is an object that has the following properties **at least**:<br />
     {name, year, derector, image, categoryIds[],id(auto generated when you create)}<br />
 <br />
-3. **Details page**<br />
+3. <b>Details page</b><br />
     A details movie page with edit button that open the edit form.<br />
     Include in the page a big image of the movie.<br />
     Beneath the image there are 5 stars to add retaing.<br />
@@ -32,9 +32,9 @@ Use the attached images as a guidlines. This is not a pixel perfect and we don't
 Use react-router to browse between pages.<br />
 You'r routes should be:<br />
 **/**  - for the list.<br />
-**/details/movieId**  - for the details (movieId is the id of the movie).<br />
-**/create** - for create a new movie.<br />
-**/edit/movieId** - for edit a movie details (movieId is the id of the movie).<br />
+<b>/details/movieId</b>  - for the details (movieId is the id of the movie).<br />
+<b>/create</b> - for create a new movie.<br />
+<b>/edit/movieId</b> - for edit a movie details (movieId is the id of the movie).<br />
 <br />
 Use a free movies api to fetch a real data. (a list for example - https://public-apis.io/free-movies-apis-collection)<br />
 be sure it provides all your data needs.<br />
