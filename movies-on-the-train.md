@@ -31,7 +31,7 @@
 Use the attached images as a guidlines. This is not a pixel perfect and we don't expect it to be amazing but it should be nice,aligned and responsive with flex.<br />
 Use react-router to browse between pages.<br />
 You'r routes should be:<br />
-**/**  - for the list.<br />
+<b>/</b>  - for the list.<br />
 <b>/details/movieId</b>  - for the details (movieId is the id of the movie).<br />
 <b>/create</b> - for create a new movie.<br />
 <b>/edit/movieId</b> - for edit a movie details (movieId is the id of the movie).<br />
