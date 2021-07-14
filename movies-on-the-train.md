@@ -27,53 +27,56 @@
 ``` Movies that have been created/edited, and the rating stars that you gave it should be displayed after refrashing the page ```
 
 
-
 ### general info
 Use the attached images as a guidlines. This is not a pixel perfect and we don't expect it to be amazing but it should be nice,aligned and responsive with flex.
 Use react-router to browse between pages.
 You'r routes should be:
+<br />
 **/**  - for the list
-**/details/movieId**  - for the details (movieId is the id of the movie)
+<br />
+**/details/movieId**  - for the details (movieId is the id of the movie).
+<br />
 **/create** - for create a new movie.
-**/edit/movieId** - for edit a movie details (movieId is the id of the movie)
-
-Use a free movies api to fetch a real data. (a list for example - https://public-apis.io/free-movies-apis-collection)
-be sure it provides all your data needs.
-This api should include also a trailer for the movie if you are going to deliver the movie trailer bonus mission.
-Use any lib that you find fits for completing the mission.
-
-If you know typescript you should build it with typescript.
-
-Use react functional components and hooks only (no class component though knowlage of class lifecycle are required).
-Be organazied, and keep your code neat and readable. bonus: try to be efficent.
-
-Use the pictures as a guidelines
-All the pages including the form should be responsive, and be should be displayed nicely on mobile(not native but web view) and desktop with flex approach.
-The app should be based on flex/grid design.
-
-Bonus:
-(The bonus is not required though it can improve your odds among other candidates).
-
-1. Build a trailer modal:
-    - The trailer should be opened as modal with dark layer.
-    - When you click on the item in the movie list it opens the modal and start playing the movie trailer.
-    - For this mission use the movies api of your choice that includes also trailers.
-
-2. Add my favorites movies page: 
-    - The route for this will be **/my-movies**
-    -  For this you should add + button to each of item.(make it toggle button, green is the indicator for saved and gray for removed/not saved).
-    To be clear when you klick the + this movie will be added to the favorites
-    
-     - add a header menu with the favorites, All movies links to browse between the two. it should use the react router lib.
-     
-
+<br />
+**/edit/movieId** - for edit a movie details (movieId is the id of the movie).
+<br />
+<br />
+Use a free movies api to fetch a real data. (a list for example - https://public-apis.io/free-movies-apis-collection)<br />
+be sure it provides all your data needs.<br />
+This api should include also a trailer for the movie if you are going to deliver the movie trailer bonus mission.<br />
+Use any lib that you find fits for completing the mission.<br />
+<br />
+If you know typescript you should build it with typescript.<br />
+<br />
+Use react functional components and hooks only (no class component though knowlage of class lifecycle are required).<br />
+Be organazied, and keep your code neat and readable. bonus: try to be efficent.<br />
+<br />
+Use the pictures as a guidelines.<br />
+All the pages including the form should be responsive, and be should be displayed nicely on mobile(not native but web view) and desktop with flex approach.<br />
+The app should be based on flex/grid design.<br />
+<br />
+Bonus:<br />
+(The bonus is not required though it can improve your odds among other candidates).<br />
+<br />
+1. Build a trailer modal:<br />
+    - The trailer should be opened as modal with dark layer.<br />
+    - When you click on the item in the movie list it opens the modal and start playing the movie trailer.<br />
+    - For this mission use the movies api of your choice that includes also trailers.<br />
+<br />
+2. Add my favorites movies page: <br />
+    The route for this will be **/my-movies**<br />
+    For this you should add + button to each of item.(make it toggle button, green is the indicator for saved and gray for removed/not saved).<br />
+    To be clear when you klick the + this movie will be added to the favorites<br />
+    Add a header with the **My-movies|All movies** links to browse between the two.<br />
+<br />
+<br />
 ## How to deliver
-Create a public github repository named MoviesOnTheTrain.
-Upload your files to the repo.
-Add a demo static page with github pages. 
-The README.md file should have only a title and a link with the demo(e.g. (myuser.github/repo.git)[demo])
-
-to create the project use the command:
-npx create-react-app movies-on-the-train --template typescript
-
-When it's ready contact your recruiter through the mail or phone.
+Create your github account a public github repository named MoviesOnTheTrain.<br />
+Upload your files to the repo.<br />
+Add a demo static page with github pages. <br />
+The README.md file should have only a title and a link with the demo(e.g. (myuser.github/repo.git)[demo])<br />
+<br />
+to create the project use the command:<br />
+npx create-react-app movies-on-the-train --template typescript<br />
+<br />
+When it's ready contact your contact through the mail or phone.
