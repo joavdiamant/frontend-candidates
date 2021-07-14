@@ -1,6 +1,6 @@
 # Movie app
 <br />
-* Build a movie app that include the following pages:<br />
+<b>Build a movie app that include the following pages:</b><br />
 <br />
 2. <b>Form page</b>  <br />
     A form of Movie with create/edit option<br />
