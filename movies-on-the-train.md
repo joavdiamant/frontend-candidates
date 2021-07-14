@@ -64,7 +64,7 @@ Bonus:<br />
     To be clear when you klick the + this movie will be added to the favorites<br />
     Add a header with the <b>My-movies|All movies</b> links to browse between the two.<br />
 <br />
-<br />
+<br />;
 ## How to deliver
 Create your github account a public github repository named MoviesOnTheTrain.<br />
 Upload your files to the repo.<br />
